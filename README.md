@@ -1,6 +1,6 @@
 # NGC-188-Models
 
-These Jupyter notebooks utilize astropy modeling to provide details of the open cluster NGC 188, including right ascenion and declination, parallax, proper motion, and more. 
+Utilizing astropy modeling to provide details of the open cluster NGC 188, including right ascenion and declination, parallax, proper motion, and more. 
 A Gaia search is performed using the Python package astroquery to obtain the measurements of NGC 188 and astropy is used to create all models.
 3 searches were performed in order to refine the models.
 The King Model is applied to the third and final search to find the limiting radius of the cluster. 
