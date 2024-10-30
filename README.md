@@ -13,4 +13,4 @@ FILE LIBRARY:
 
 NGC188_models: (ipynb) Jupyter notebook containing first two Gaia searches. Parameters from the first search are used to refine the next search
 
-NGC188_refined_King: (ipynb) Jupyter notebook containing the final search. Outputs King Model and fit, membership probabilities.
+NGC188_refined_King: (ipynb) Jupyter notebook containing the final search. Outputs King Model and fit, membership probabilities, and a color-magnitude diagram.
